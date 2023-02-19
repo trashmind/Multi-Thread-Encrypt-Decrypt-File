@@ -1,0 +1,11 @@
+D:\Data\Kuliah\UNSIA\Visual Basic\Multi-Thread Encrypt Decrypt File\Multi-Thread Encrypt Decrypt File\obj\Debug\Multi-Thread Encrypt Decrypt File.vbproj.AssemblyReference.cache
+D:\Data\Kuliah\UNSIA\Visual Basic\Multi-Thread Encrypt Decrypt File\Multi-Thread Encrypt Decrypt File\obj\Debug\Encrypt_multi_threading.Form1.resources
+D:\Data\Kuliah\UNSIA\Visual Basic\Multi-Thread Encrypt Decrypt File\Multi-Thread Encrypt Decrypt File\obj\Debug\Encrypt_multi_threading.Resources.resources
+D:\Data\Kuliah\UNSIA\Visual Basic\Multi-Thread Encrypt Decrypt File\Multi-Thread Encrypt Decrypt File\obj\Debug\Multi-Thread Encrypt Decrypt File.vbproj.GenerateResource.cache
+D:\Data\Kuliah\UNSIA\Visual Basic\Multi-Thread Encrypt Decrypt File\Multi-Thread Encrypt Decrypt File\obj\Debug\Multi-Thread Encrypt Decrypt File.vbproj.CoreCompileInputs.cache
+D:\Data\Kuliah\UNSIA\Visual Basic\Multi-Thread Encrypt Decrypt File\Multi-Thread Encrypt Decrypt File\bin\Debug\Multi-Thread Encrypt Decrypt File.exe
+D:\Data\Kuliah\UNSIA\Visual Basic\Multi-Thread Encrypt Decrypt File\Multi-Thread Encrypt Decrypt File\bin\Debug\Multi-Thread Encrypt Decrypt File.pdb
+D:\Data\Kuliah\UNSIA\Visual Basic\Multi-Thread Encrypt Decrypt File\Multi-Thread Encrypt Decrypt File\bin\Debug\Multi-Thread Encrypt Decrypt File.xml
+D:\Data\Kuliah\UNSIA\Visual Basic\Multi-Thread Encrypt Decrypt File\Multi-Thread Encrypt Decrypt File\obj\Debug\Multi-Thread Encrypt Decrypt File.exe
+D:\Data\Kuliah\UNSIA\Visual Basic\Multi-Thread Encrypt Decrypt File\Multi-Thread Encrypt Decrypt File\obj\Debug\Multi-Thread Encrypt Decrypt File.xml
+D:\Data\Kuliah\UNSIA\Visual Basic\Multi-Thread Encrypt Decrypt File\Multi-Thread Encrypt Decrypt File\obj\Debug\Multi-Thread Encrypt Decrypt File.pdb
